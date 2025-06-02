@@ -1,0 +1,8 @@
+Hello! Could you please help me select a database for my project:
+- Social platform with millions of users
+- Need to store profiles, posts, and connections between users
+- High data read speed required
+- Expected 80% read operations, 20% write operations
+-Scalability is important as the user base grows
+
+Please use the chain-of-thought reasoning so that I could understand why you picked a specific type of database.
