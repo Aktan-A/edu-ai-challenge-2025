@@ -1,0 +1,10 @@
+Hello! I found a bug while testing my app and wrote down the following note to create a bug ticket later:
+Logout button doesn’t work on Safari. It just doesn’t respond
+
+Could you please restructure that note into the following bug ticket format in markdown:
+Title
+Description
+Steps to Reproduce
+Expected vs Actual Behavior
+Environment (if known)
+Severity or Impact
