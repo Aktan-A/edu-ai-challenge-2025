@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "file_name": "task_3_input.docx",
+    "analysis_timestamp": "2025-06-05T09:24:08+06:00"
+  },
+  "summary": "Remote work has become popular, especially after the pandemic[cite: 1]. It offers advantages such as higher job satisfaction for employees due to no commutes and increased flexibility[cite: 2], and lower operational costs for companies[cite: 3]. However, challenges include employee feelings of isolation, potential productivity issues[cite: 4, 5], and employer difficulties in monitoring performance and ensuring communication[cite: 6]. Despite these challenges, remote work is expected to continue, with companies often exploring hybrid models and technology continually improving to support remote and hybrid environments[cite: 7, 8, 9].",
+  "sentiment_analysis": {
+    "classification": "neutral",
+    "score": 0,
+    "reasoning": "The text presents a balanced view of remote work, detailing both its significant advantages for employees and companies [cite: 2, 3] and notable challenges such as isolation and productivity concerns[cite: 4, 5, 6]. While it concludes that remote work is here to stay and technological advancements are facilitating it[cite: 7, 9], the equal weight given to pros and cons supports a neutral classification."
+  }
+}
