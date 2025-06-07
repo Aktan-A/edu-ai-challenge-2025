@@ -1,0 +1,48 @@
+[
+  {
+    "sentiment": "Negative",
+    "isRelevant": true,
+    "mainSubject": "Technical issues and quality control",
+    "positives": [],
+    "painPoints": [
+      "Sensor frequently stops tracking",
+      "Tracking issue persists even when plugged in",
+      "Received a unit with a non-working dongle",
+      "High price point for a product with these issues"
+    ],
+    "improvementSuggestions": [
+      "Improve sensor tracking stability",
+      "Enhance quality control to prevent shipping non-functional units"
+    ],
+    "featuresMentioned": [
+      "Sensor tracking",
+      "8000hz polling rate",
+      "Wired connection",
+      "Dongle",
+      "Price"
+    ],
+    "userExpertise": "Experienced"
+  },
+  {
+    "sentiment": "Mixed",
+    "isRelevant": true,
+    "mainSubject": "Price-performance value",
+    "positives": [
+      "The product itself is considered flawless"
+    ],
+    "painPoints": [
+      "The price is too high for the performance offered",
+      "Cheaper products can deliver similar performance"
+    ],
+    "improvementSuggestions": [
+      "Adjust the price to offer better value"
+    ],
+    "featuresMentioned": [
+      "Price",
+      "Value",
+      "Performance",
+      "Specs"
+    ],
+    "userExpertise": "Experienced"
+  }
+]
