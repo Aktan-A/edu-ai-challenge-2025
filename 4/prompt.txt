@@ -1,0 +1,4 @@
+Hello! I have uploaded a file containing my Python code, could you please review it from 3 different perspectives and provide actionable recommendations and observations on how I can improve it? Please format them in Markdown. Here are the 3 perspectives:
+- an Experienced Developer
+- as a Security Engineer
+- as a Performance Specialist
